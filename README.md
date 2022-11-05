@@ -1,2 +1,3 @@
-# ML
-Machine learning notebooks created during practise on datasets and during hackathons
+# ML - Mulit label classification 
+Machine learning notebooks for Analaytics Vidhya hackathon
+
